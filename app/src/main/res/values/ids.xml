@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textViewTopHeading" type="id" />
+    <item name="editTextUsername" type="id" />
+    <item name="editTextPassword" type="id" />
+    <item name="loginButton" type="id" />
+</resources>
